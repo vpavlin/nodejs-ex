@@ -7,7 +7,7 @@
       "express": "*",
       "mongodb": "*",
       "ejs": "*",
-      "underscore": "1.8.1"
+      "underscore": "1.6.0"
   },
   "engine": {
     "node": "*",
